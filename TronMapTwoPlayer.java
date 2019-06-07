@@ -99,7 +99,7 @@ public class TronMapTwoPlayer extends TronMap {
 		players[0] = player;
 		int[] start2 = getRandomStart();
 		player2 = new PlayerHuman
-				(start2[0], start2[1], start2[2], start2[3], Color.PINK);
+				(start2[0], start2[1], start2[2], start2[3], Color.RED);
 		players[1] = player2;
 		timer.start();
 		requestFocusInWindow();
@@ -128,7 +128,7 @@ public class TronMapTwoPlayer extends TronMap {
 	   super.paintComponent(g);
 	   if (p1) {
 		   try {
-			   BufferedImage picture = ImageIO.read(new File("p1_wins.png"));
+			   BufferedImage picture = ImageIO.read(new File("image/p1_wins.png"));
 			   g.drawImage
 			   		(picture, MAPWIDTH / 2 - 180, MAPHEIGHT / 2 - 30, null);
 		   } catch (IOException e) {
@@ -136,7 +136,7 @@ public class TronMapTwoPlayer extends TronMap {
 	   }
 	   if (p2) {
 		   try{
-			   BufferedImage picture = ImageIO.read(new File("p2_wins.png"));
+			   BufferedImage picture = ImageIO.read(new File("image/p2_wins.png"));
 			   g.drawImage
 			   		(picture, MAPWIDTH / 2 - 180, MAPHEIGHT / 2 - 30, null);
 		   } catch (IOException e) {
@@ -144,7 +144,7 @@ public class TronMapTwoPlayer extends TronMap {
 	   }
 	   if (tie) {
 		   try {
-			   BufferedImage picture = ImageIO.read(new File("tie.png"));
+			   BufferedImage picture = ImageIO.read(new File("image/tie.png"));
 			   g.drawImage
 			   		(picture, MAPWIDTH / 2 - 120, MAPHEIGHT / 2 - 30, null);
 		   } catch (IOException e) {			   

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e05ff41f-6c20-4c09-a6c3-68d7de58e897" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tron.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/.idea/tron.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/GameObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/HighScores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Intersection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Picture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Player$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/PlayerAI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/PlayerHuman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/TronMap$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/TronMap$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/TronMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/TronMapStory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/TronMapStory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/TronMapSurvival.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/TronMapTwoPlayer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out/production/tron/TronMapTwoPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/high_scores.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/instructions_before.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/instructions_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/main_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/p1_wins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/p2_wins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/play_before.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/play_menu2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/quit_before.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/restart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/story.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/survival.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/tie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/tron_cycle2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/two_player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/win.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TronMapStory.java" beforeDir="false" afterPath="$PROJECT_DIR$/TronMapSinglePlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TronMapSurvival.java" beforeDir="false" afterPath="$PROJECT_DIR$/TronMapSurvival.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TronMapTwoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/TronMapTwoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/high_scores.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instructions_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instructions_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/over.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_wins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2_wins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play_menu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quit_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/story.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/survival.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tron0_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/two_player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/win.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="230" column="52" lean-forward="true" selection-start-line="230" selection-start-column="52" selection-end-line="230" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1733">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TronMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1903">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TronMapSinglePlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TronMapSurvival.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="117" column="68" selection-start-line="117" selection-start-column="68" selection-end-line="117" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TronMapTwoPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="93" column="19" lean-forward="true" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/over.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Picture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Intersection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Score.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gameover</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TronMapStory.java" />
+        <option value="$PROJECT_DIR$/TronMapSurvival.java" />
+        <option value="$PROJECT_DIR$/TronMapTwoPlayer.java" />
+        <option value="$PROJECT_DIR$/TronMapSinglePlayer.java" />
+        <option value="$PROJECT_DIR$/Game.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tron" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559918672865" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="tron" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e05ff41f-6c20-4c09-a6c3-68d7de58e897" name="Default Changelist" comment="" />
+      <created>1559879969935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559879969935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tron0_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Score.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Picture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/over.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/p1_wins.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1733">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TronMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1903">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TronMapTwoPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="93" column="19" lean-forward="true" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TronMapSurvival.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="117" column="68" selection-start-line="117" selection-start-column="68" selection-end-line="117" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TronMapSinglePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="230" column="52" lean-forward="true" selection-start-line="230" selection-start-column="52" selection-end-line="230" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tron</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

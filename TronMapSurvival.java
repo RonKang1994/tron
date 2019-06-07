@@ -115,7 +115,7 @@ public class TronMapSurvival extends TronMap {
 	   super.paintComponent(g);
 	   if (!player.getAlive()) {
 		   try{
-			   BufferedImage picture = ImageIO.read(new File("over.png"));
+			   BufferedImage picture = ImageIO.read(new File("image/over.png"));
 			   g.drawImage(
 					   picture, MAPWIDTH / 2 - 230, MAPHEIGHT / 2 - 110, null);
 		   } catch (IOException e) {
